@@ -1,8 +1,8 @@
 # Proyecto-DarkCode
-#Proyecto integrador segundo semestre
+# Proyecto integrador segundo semestre
 
-# Matias Federico Sosa
-# Sebastian García Flaminio
-# Javier Brega
-# Juan Ignacio Sorato
-# Gustavo Cesaretti
+* Matias Federico Sosa
+* Sebastian García Flaminio
+* Javier Brega
+* Juan Ignacio Sorato
+* Gustavo Cesaretti
