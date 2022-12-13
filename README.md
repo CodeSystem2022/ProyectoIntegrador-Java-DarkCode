@@ -1,5 +1,5 @@
-# Proyecto-DarkCode
-# Proyecto integrador segundo semestre
+# Proyecto Integrador-DarkCode
+# Billetera Virtual DARKCODE PAY
 
 La iniciativa de este proyecto ha sido crear una billetera virtual en la cual los usuarios puedan realizar operaciones bancarias básicas como enviar dinero, invertir en plazos fijos o en compra y venta de moneda extranjera, realizar pagos de impuestos, como así también simular y pedir prestamos personales. 
 
