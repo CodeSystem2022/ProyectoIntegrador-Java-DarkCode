@@ -1,13 +1,14 @@
 # Proyecto-DarkCode
 # Proyecto integrador segundo semestre
 
-La iniciativa de este proyecto es crear una billetera virtual en la cual se puedan realizar operaciones bancarias básicas como enviar dinero, invertir en plazos fijos o en compra y venta moneda extranjera, realizar pagos de impuestos, como así también simular y pedir prestamos personales. 
+La iniciativa de este proyecto ha sido crear una billetera virtual en la cual los usuarios puedan realizar operaciones bancarias básicas como enviar dinero, invertir en plazos fijos o en compra y venta de moneda extranjera, realizar pagos de impuestos, como así también simular y pedir prestamos personales. 
 
-En esta versión mejorada de la billetera hemos incorporado dos nuevas mejoras al prototipo inicial. En primer lugar, se podrá trabajar en TRES IDIOMAS, seleccionando entre español, inglés o chino mandarín. En segundo lugar, esta billetera está vinculada a una base de datos.
+En esta versión mejorada de la billetera hemos incorporado dos nuevas mejoras al prototipo inicial. En primer lugar, se podrá trabajar en tres idiomas, seleccionando entre español, inglés o chino mandarín. En segundo lugar, esta billetera está vinculada a una base de datos.
 
 Para poder disfrutar de las mejoras y recopilación de datos en MySQL Workbench, será necesario tener instalada la base de datos de forma local, para lo que hemos creado un archivo especial con las instrucciones para llevar a cabo dicha conexión. 
 
-Esperamos disfruten descubriendo este proyecto y sumarse a la experiencia DARKCODE PAY.
+Esperamos disfruten descubriendo este proyecto.
+Los invitamos a sumarse a la experiencia DARKCODE PAY!
 
 
 
