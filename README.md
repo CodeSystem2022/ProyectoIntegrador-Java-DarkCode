@@ -17,7 +17,7 @@ Los invitamos a sumarse a la experiencia DARKCODE PAY!
 * 𝙂𝙖𝙗𝙧𝙞𝙚𝙡𝙖 𝙈𝙖𝙣𝙘𝙖
 * 𝙂𝙪𝙨𝙩𝙖𝙫𝙤 𝘾𝙚𝙨𝙖𝙧𝙚𝙩𝙩𝙞
 * 𝙅𝙖𝙫𝙞𝙚𝙧 𝘽𝙧𝙚𝙜𝙖
-* 𝙅𝙪𝙖𝙣 𝙄𝙜𝙣𝙖𝙘𝙞𝙤 𝙎𝙤𝙧𝙖𝙩o
+* 𝙅𝙪𝙖𝙣 𝙄𝙜𝙣𝙖𝙘𝙞𝙤 𝙎𝙤𝙧𝙖𝙩𝙤
 * 𝙎𝙚𝙗𝙖𝙨𝙩𝙞á𝙣 𝙂𝙖𝙧𝙘𝙞𝙖 𝙁𝙡𝙖𝙢𝙞𝙣𝙞𝙤
 
 [![17150141-1.png](https://i.postimg.cc/NjNqhbvH/17150141-1.png)](https://postimg.cc/18NYwGtm)
